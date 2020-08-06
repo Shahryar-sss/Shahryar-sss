@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 [gmail]: mailto:saify.shahryar@gmail.com
 
 img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
+   width:12px;
+   height:12px;
 }
