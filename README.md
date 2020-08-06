@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 [github]: https://www.github.com/Shahryar-sss
 [gmail]: mailto:saify.shahryar@gmail.com
 
-img {
-    padding-bottom: 20px !important;
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
 }
