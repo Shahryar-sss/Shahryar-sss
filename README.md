@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Shahryar 👋
+## Hi there, I'm Shahryar 👋🤓
 
-### I'm a Student, Full Stack Developer and Machine Learning Enthusiast
+### Full Stack Developer | Software Engineer | Machine Learning Enthusiast
 - 🔭 I’m currently working on a React Native App - Repo Coming Soon !
 - 🌱 I’m currently learning ML Regression and Classification Algorithms
 - 👯 I’m looking to collaborate with other full stack developers
