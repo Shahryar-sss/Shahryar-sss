@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other full stack developers
 - 💡 2020 Goals: Contribute more to Open Source projects
 
-<p align="center">
-    ### Connect with me:
-    <a href="https://www.linkedin.com/in/shahryar-saify/"><img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-</p>
+### Connect with me:
+
+[<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 <br />
 
 ### Languages and Tools:
