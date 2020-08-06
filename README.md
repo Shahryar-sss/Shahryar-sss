@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there, I'm Shahryar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> 🤓
+## Hi there, I'm Shahryar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 ### Full Stack Developer | Software Engineer (in progress) | Machine Learning Enthusiast
 - 🔭 I’m currently working on a React Native App - Repo Coming Soon !
