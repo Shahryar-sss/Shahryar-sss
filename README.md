@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Shahryar 👋
 
-### I'm a Student, Full Stack Developer and Machine Learning enthusiast
+### I'm a Student, Full Stack Developer and Machine Learning Enthusiast
 - 🔭 I’m currently working on a React Native App - Repo Coming Soon !
 - 🌱 I’m currently learning ML Regression and Classification Algorithms
 - 👯 I’m looking to collaborate with other full stack developers
