@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other full stack developers
 - 💡 2020 Goals: Contribute more to Open Source projects
 
-### Connect with me:
+<p align="center">
+    ### Connect with me:
 
-[<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
+    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+</p>
 <br />
 
 ### Languages and Tools:
