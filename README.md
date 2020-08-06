@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <p align="center">
     ### Connect with me:
     <a href="https://www.linkedin.com/in/shahryar-saify/"><img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <!-- [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
     [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] -->
+    [<img align="left" alt="Shahryar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 </p>
 <br />
 
