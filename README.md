@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a [React Native App][DoneWithIt] !
 - 🌱 I’m currently learning ML Regression and Classification Algorithms
 - 👯 I’m looking to collaborate with other full stack developers
-- 💡 2020 Goals: Contribute more to Open Source projects
+- 💡 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
