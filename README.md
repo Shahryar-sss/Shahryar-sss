@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Full Stack Developer | Software Engineer (in progress) | Machine Learning Enthusiast
 - 🔭 I’m currently working on a [React Native App][DoneWithIt] !
-- 🌱 I’m currently learning ML Regression and Classification Algorithms
+- 🌱 I’m currently learning OpenCV and image detection techniques.
 - 👯 I’m looking to collaborate with other full stack developers
 - 💡 2021 Goals: Contribute more to Open Source projects
 
